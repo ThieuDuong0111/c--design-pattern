@@ -1,0 +1,16 @@
+D:\Design Pattern\DesignPattern\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\Design Pattern\DesignPattern\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\Design Pattern\DesignPattern\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Design Pattern\DesignPattern\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Design Pattern\DesignPattern\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\Design Pattern\DesignPattern\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Design Pattern\DesignPattern\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\Design Pattern\DesignPattern\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\Design Pattern\DesignPattern\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Pattern\DesignPattern\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Design Pattern\DesignPattern\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Design Pattern\DesignPattern\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Design Pattern\DesignPattern\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\Design Pattern\DesignPattern\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Design Pattern\DesignPattern\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\Design Pattern\DesignPattern\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
